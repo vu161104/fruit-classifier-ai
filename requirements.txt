@@ -1,14 +1,26 @@
-Flask==3.0.0
-flask-cors==4.0.0
-# tensorflow==2.15.0
-tensorflow==2.20.0
-
-Pillow==10.1.0
-numpy==1.26.2
-
 # Flask==3.0.0
 # flask-cors==4.0.0
-# tensorflow==2.18.0
+# # tensorflow==2.15.0
+# tensorflow==2.20.0
+
 # Pillow==10.1.0
 # numpy==1.26.2
-gunicorn==21.2.0
+
+# # Flask==3.0.0
+# # flask-cors==4.0.0
+# # tensorflow==2.18.0
+# # Pillow==10.1.0
+# # numpy==1.26.2
+# gunicorn==21.2.0
+
+Flask==3.0.0
+flask-cors==4.0.0
+
+tensorflow==2.20.0
+keras==3.4.1
+
+numpy<2.0
+protobuf<5
+
+gunicorn
+pillow
