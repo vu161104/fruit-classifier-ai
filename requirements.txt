@@ -16,11 +16,11 @@
 Flask==3.0.0
 flask-cors==4.0.0
 
-tensorflow==2.20.0
-keras==3.4.1
+tensorflow==2.15.0
+keras==2.15.0
 
 numpy<2.0
-protobuf<5
+protobuf<4.25
 
 gunicorn
 pillow
